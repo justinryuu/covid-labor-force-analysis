@@ -14,10 +14,10 @@ to rise. However, another statistic – the labour force participation rate – 
 considering the health of the labour market.
 
 Investopedia defines the labour force participation rate as “the percentage of all people of working age who
-are employed or are actively seeking work.”1 It differs from the unemployment rate in that it includes
+are employed or are actively seeking work.” It differs from the unemployment rate in that it includes
 working-age individuals who may have been unemployed, but are willing and able to work. This means that
 some people who are unemployed are still considered to be part of the labour force. Individuals who have
-given up on their search for re-employment are referred to as “discouraged workers”2 and are excluded from
+given up on their search for re-employment are referred to as “discouraged workers” and are excluded from
 the labour force. Examining the labour force participation rate can therefore offer additional insight on the
 state of workers themselves beyond whether or not they are currently working; an increase in the labour
 force participation rate can be generally interpreted as an increase in the willingness to work of a group
@@ -27,7 +27,7 @@ larger number of discouraged workers. We will conduct such an analysis in this r
 The objective of this analysis is to make use of confidence intervals to estimate the the range of values for
 the population mean and variance of the labour force participation rate. The dataset that we will be using
 in this analysis is the Unemployment rate, participation rate, and employment rate by type of student during
-school months, monthly, unadjusted for seasonality3 dataset provided by Statistics Canada. This dataset
+school months, monthly, unadjusted for seasonality dataset provided by Statistics Canada. This dataset
 provides monthly percentages for the unemployment rate, participation rate, and employment rate of fulltime
 students, part-time students, and non-students of both sexes from the ages of 15 to 24. In order to make
 this analysis slightly more relevant to us as students, we will be analyzing the labour force participation rate
@@ -97,8 +97,7 @@ we will use to find the 95% confidence interval is as follows:
   <img src="images/3.png" width="80%" height="80%">
 </p>
 
-## Bootstrap Resampling to find Confidence Interval [(Read more here)](https://acclab.github.io/bootstrap-confidenceintervals.
-html)
+## Bootstrap Resampling to find Confidence Interval [(Read more here)](https://acclab.github.io/bootstrap-confidenceintervals.html)
 
 The second parameter we are interested in is the population variance of the labour force participation
 rate for full-time students. This parameter can be interpreted as the true value of the spread of the rates,
