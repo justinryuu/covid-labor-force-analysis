@@ -94,7 +94,7 @@ Now that our requisite assumptions are met, we can derive our Z confidence inter
 we will use to find the 95% confidence interval is as follows:
 
 <p align="center">
-  <img src="images/3.png" width="80%" height="80%">
+  <img src="images/3.png" width="100%" height="100%">
 </p>
 
 ## Bootstrap Resampling to find Confidence Interval [(Read more here)](https://acclab.github.io/bootstrap-confidenceintervals.html)
