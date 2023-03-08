@@ -1,5 +1,9 @@
 # Impact of the COVID-19 Pandemic on the Canadian Student Labor Force Participation Rate
 
+<p align="center">
+  <img src="images/bannr.jpg" width="100%" height="100%">
+</p>
+
 # Introduction
 
 When considering the economic implications of major recessions such as the 2008 global financial crisis
