@@ -93,7 +93,8 @@ we will use to find the 95% confidence interval is as follows:
   <img src="images/3.png" width="80%" height="80%">
 </p>
 
-## Bootstrap Resampling to find Confidence Interval
+## Bootstrap Resampling to find Confidence Interval [(Read more here)](https://acclab.github.io/bootstrap-confidenceintervals.
+html)
 
 The second parameter we are interested in is the population variance of the labour force participation
 rate for full-time students. This parameter can be interpreted as the true value of the spread of the rates,
