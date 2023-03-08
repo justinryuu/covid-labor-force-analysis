@@ -62,7 +62,7 @@ value of the labour force participation rate for an observation.
 Below is a glimpse of the cleaned dataset which contains 170 observations of 2 variables:
 
 <p align="center">
-  <img src="images/1.png" width="50%" height="50%">
+  <img src="images/1.png" width="30%" height="30%">
 </p>
 
 As well as a basic histogram of our cleaned dataset to get a visual impression of our data.
@@ -140,6 +140,10 @@ could be due to the fact that the period from 2000-2021 sees the Canadian econom
 states of expansion and recession, which should have caused significant fluctuations in the state of the
 labour force. In order to get a gist as to how this could be, we can compare extremes by observing just how
 low the labour force participation rate can drop during times of severe recession:
+
+<p align="center">
+  <img src="images/5.png" width="30%" height="30%">
+</p>
 
 Although these two isolated observations cannot be used to make a generalization on the entire population,
 it still provides us with some insight as to how several instances of differing labour force participation rates
