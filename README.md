@@ -62,7 +62,7 @@ value of the labour force participation rate for an observation.
 Below is a glimpse of the cleaned dataset which contains 170 observations of 2 variables:
 
 <p align="center">
-  <img src="images/1.png" width="80%" height="80%">
+  <img src="images/1.png" width="50%" height="50%">
 </p>
 
 As well as a basic histogram of our cleaned dataset to get a visual impression of our data.
